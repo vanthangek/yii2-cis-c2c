@@ -1,0 +1,21 @@
+{
+    "name": "lcs/yii2-cis-c2c",
+    "description": "Cis Click2Call",
+    "type": "library",
+    "keywords": ["yii2","extension"],
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "Thang Dang",
+            "email": "thangdang@lcs.com.vn"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "lcs\\click2call\\": ""
+        }
+    }
+}
